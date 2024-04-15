@@ -13,9 +13,9 @@ Version: 0.1.24 (Beta 3)
 3. Click the green `Add blocklist` button
 4. Click the `Choose from the list` button
 5. Checkmark the following `General` blocklists:
-    - 1Hosts (List)
+    - 1Hosts (Lite)
     - AdGuard DNS filter
-    - AdAway Default Blocklist
+    - ~~AdAway Default Blocklist~~
     - Dan Pollock's List
     - OISD Blocklist Small
     - Peter Lowe's Blocklist
